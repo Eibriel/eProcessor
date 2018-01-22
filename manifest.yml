@@ -1,0 +1,4 @@
+applications:
+- name: EibrielProcessor
+  host: eibrielprocessor
+  memory: 128M
